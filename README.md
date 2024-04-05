@@ -1,4 +1,4 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe 
+# "Acedly ai" An AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe 
 
 Features:
 
