@@ -46,7 +46,7 @@ export async function GET() {
               name: "Acedly ai Pro",
               description: "Unlimited AI Generations"
             },
-            unit_amount: 2000,
+            unit_amount: 500,
             recurring: {
               interval: "month"
             }
