@@ -17,7 +17,7 @@ export const LandingHero = () => {
           <TypewriterComponent
             options={{
               strings: [
-                "Photo Generation.",
+                "Video Generation.",
                 "Music Creation.",
               ],
               autoStart: true,
