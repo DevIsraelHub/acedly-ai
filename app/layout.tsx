@@ -24,6 +24,11 @@ export default async function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en" suppressHydrationWarning>
+        <head>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9889724479754056"
+            crossOrigin="anonymous">
+          </script>
+        </head>
         <body className={font.className}>
           <ToasterProvider />
           <ModalProvider />
